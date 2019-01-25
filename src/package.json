@@ -1,0 +1,538 @@
+{
+  "name": "Partial_Engine_View",
+  "description": " depicts an example embodiment of a combustion chamber or cylinder of internal combustion internal combustion engine.",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 306,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 1,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"id1ed428bf-7fdc-adcb-479c-c84803b2316c\" data-type=\"figure\">Figure 1</span>&nbsp;shows a partial engine view</p>"
+    ],
+    "parts": [
+      {
+        "name": "internal combustion engine",
+        "number": 100
+      },
+      {
+        "name": "pedal position signal",
+        "number": 102
+      },
+      {
+        "name": "fuel system",
+        "number": 104
+      },
+      {
+        "name": "microprocessor unit",
+        "number": 106
+      },
+      {
+        "name": "input/output ports",
+        "number": 108
+      },
+      {
+        "name": "read-only memory",
+        "number": 110
+      },
+      {
+        "name": "random access memory",
+        "number": 112
+      },
+      {
+        "name": "keep alive memory",
+        "number": 114
+      },
+      {
+        "name": "temperature sensor",
+        "number": 116
+      },
+      {
+        "name": "cooling sleeve",
+        "number": 118
+      },
+      {
+        "name": "hall effect sensor",
+        "number": 120
+      },
+      {
+        "name": "mass air flow sensor",
+        "number": 122
+      },
+      {
+        "name": "sensor",
+        "number": 124
+      },
+      {
+        "name": "controller",
+        "number": 126
+      },
+      {
+        "name": "exhaust gas sensor(s)",
+        "number": 128
+      },
+      {
+        "name": "vehicle operator",
+        "number": 130
+      },
+      {
+        "name": "input device",
+        "number": 132
+      },
+      {
+        "name": "pedal position sensor",
+        "number": 134
+      },
+      {
+        "name": "combustion chamber walls",
+        "number": 136
+      },
+      {
+        "name": "piston",
+        "number": 138
+      },
+      {
+        "name": "crankshaft",
+        "number": 140
+      },
+      {
+        "name": "intake air passage 1",
+        "number": 142
+      },
+      {
+        "name": "intake air passage 2",
+        "number": 144
+      },
+      {
+        "name": "intake air passage 3",
+        "number": 146
+      },
+      {
+        "name": "exhaust passage",
+        "number": 148
+      },
+      {
+        "name": "intake valve",
+        "number": 150
+      },
+      {
+        "name": "cam actuation system 1",
+        "number": 152
+      },
+      {
+        "name": "cam actuation system 2",
+        "number": 154
+      },
+      {
+        "name": "exhaust valve",
+        "number": 156
+      },
+      {
+        "name": "position sensor 1",
+        "number": 158
+      },
+      {
+        "name": "position sensor 2",
+        "number": 160
+      },
+      {
+        "name": "spark advance signal",
+        "number": 162
+      },
+      {
+        "name": "throttle plate",
+        "number": 164
+      },
+      {
+        "name": "fuel injector",
+        "number": 166
+      },
+      {
+        "name": "electronic driver",
+        "number": 168
+      },
+      {
+        "name": "signal FPW",
+        "number": 170
+      },
+      {
+        "name": "engine coolant temperature",
+        "number": 172
+      },
+      {
+        "name": "compressor",
+        "number": 174
+      },
+      {
+        "name": "exhaust turbine",
+        "number": 176
+      },
+      {
+        "name": "emission control device",
+        "number": 178
+      },
+      {
+        "name": "shaft",
+        "number": 180
+      },
+      {
+        "name": "cylinder",
+        "number": 182
+      },
+      {
+        "name": "throttle position",
+        "number": 184
+      },
+      {
+        "name": "Manifold pressure signal",
+        "number": 186
+      },
+      {
+        "name": "throttle",
+        "number": 188
+      },
+      {
+        "name": "ignition system",
+        "number": 190
+      },
+      {
+        "name": "spark plug",
+        "number": 192
+      },
+      {
+        "name": "knock sensor(s)",
+        "number": 194
+      },
+      {
+        "name": "two-state oxygen sensor or EGO",
+        "number": 196
+      },
+      {
+        "name": "inducted mass air flow",
+        "number": 198
+      },
+      {
+        "name": "profile ignition pickup signal",
+        "number": 200
+      }
+    ],
+    "terms": [
+      "mitigating action(s)",
+      "accelerometer",
+      "electric valve actuation",
+      "variable valve timing actuator",
+      "common valve actuator",
+      "addition",
+      "cylinder AFR",
+      "in-cylinder AFR",
+      "stoichiometric AFR",
+      "intake air",
+      "amount",
+      "relative amount",
+      "auto-ignition",
+      "different fuel blends",
+      "cylinder block",
+      "engine block",
+      "data bus",
+      "case",
+      "catalyst",
+      "bottom center",
+      "top center",
+      "chamber",
+      "herein also \"combustion chamber",
+      "read-only memory",
+      "combinations",
+      "combination",
+      "appropriate combination",
+      "combustion",
+      "abnormal combustion",
+      "mixing and combustion",
+      "different fuel compositions",
+      "compressor",
+      "computer",
+      "operating conditions",
+      "engine operating conditions",
+      "controller",
+      "crankshaft",
+      "cycle",
+      "single cycle",
+      "cylinder",
+      "combustion cylinder",
+      "such each cylinder",
+      "engine cylinders",
+      "combustion chamber or cylinder",
+      "other cylinders",
+      "data",
+      "delivery",
+      "abnormal combustion detection",
+      "boosting device",
+      "emission control device",
+      "various other emission control devices",
+      "input device",
+      "differences",
+      "distribution",
+      "downstream",
+      "electronic driver",
+      "heated EGO",
+      "two-state oxygen sensor or EGO",
+      "spark retard and EGR",
+      "cooled external EGR",
+      "embodiments",
+      "alternate embodiment",
+      "alternate embodiments",
+      "alternative embodiments",
+      "depicted embodiment",
+      "example embodiment",
+      "other embodiments",
+      "still other embodiments",
+      "internal combustion engine",
+      "diesel engines",
+      "multi-cylinder engine",
+      "cylinder enleanment",
+      "cylinder enrichment",
+      "higher latent enthalpy",
+      "estimate",
+      "abnormal combustion event",
+      "abnormal combustion events",
+      "abnormal cylinder combustion events",
+      "single combustion event",
+      "pre-ignition events",
+      "cylinder spark event",
+      "example",
+      "examples",
+      "non-limiting example",
+      "other examples",
+      "particular example",
+      "FIGS",
+      "inducted mass air flow",
+      "flywheel",
+      "signal FPW",
+      "alcohol-based fuel",
+      "alcohol-based fuels",
+      "delivered fuel",
+      "different fuels",
+      "higher octane fuels or fuels",
+      "exhaust gases",
+      "different heat",
+      "HEGO",
+      "unburned hydrocarbons",
+      "defined window increases",
+      "indication",
+      "injection",
+      "direct injection",
+      "direct fuel injection",
+      "multiple injections",
+      "injector",
+      "direct injector",
+      "single direct injector",
+      "fuel injector",
+      "one fuel injector",
+      "port injector",
+      "side injector",
+      "two injectors",
+      "mechanical input",
+      "instructions",
+      "high knock intensities",
+      "output intensity",
+      "knock sensor output intensity",
+      "inventors",
+      "address knock",
+      "engine knock",
+      "further knock",
+      "lambda",
+      "lamda",
+      "variable valve lift",
+      "likelihood",
+      "load",
+      "engine load",
+      "selected locations",
+      "intake manifold",
+      "manner",
+      "Manifold pressure signal",
+      "measurement",
+      "electronic storage medium",
+      "random access memory",
+      "keep alive memory",
+      "methods",
+      "temperature estimation methods",
+      "microcomputer",
+      "mixing",
+      "given mixture",
+      "lean mixtures",
+      "rich mixtures",
+      "stoichiometric mixture",
+      "stoichiometry mixtures",
+      "select operating modes",
+      "reciprocating motion",
+      "rotational motion",
+      "motor",
+      "starter motor",
+      "nature",
+      "occurrence",
+      "different alcohol content, different octane",
+      "starting operation",
+      "valve operation",
+      "vehicle operator",
+      "output",
+      "sensor output",
+      "knock sensor output",
+      "universal or wide-range exhaust gas oxygen",
+      "residual oxygen",
+      "control parameters",
+      "passage",
+      "air passage",
+      "exhaust passage",
+      "intake passages",
+      "intake passage",
+      "accelerator pedal",
+      "signal PIP",
+      "piston",
+      "throttle plate",
+      "spark plug",
+      "input/output ports",
+      "position",
+      "such a position",
+      "throttle position",
+      "pre-ignition",
+      "knock and pre-ignition",
+      "low speed pre-ignition",
+      "pressure",
+      "lower pressure",
+      "processor",
+      "cam profile",
+      "executable programs",
+      "proportion",
+      "fuel pumps",
+      "single stage fuel pump",
+      "different fuel qualities",
+      "fuel rail",
+      "range",
+      "flow rate",
+      "ratio",
+      "air-fuel ratio",
+      "compression ratio",
+      "exhaust gas air/fuel ratio",
+      "air-to-injected fuel ratio",
+      "reference",
+      "upper region",
+      "response",
+      "spark retard",
+      "spark timing retard",
+      "sensor",
+      "crankshaft acceleration sensor",
+      "AFR sensor",
+      "CO sensor",
+      "hall effect sensor",
+      "mass air flow sensor",
+      "exhaust gas sensor(s)",
+      "ionization sensor",
+      "knock sensor(s)",
+      "linear oxygen sensor",
+      "pedal position sensor",
+      "throttle position sensor",
+      "valve position sensors",
+      "manifold pressure sensor",
+      "various suitable sensors",
+      "temperature sensor",
+      "series",
+      "severity",
+      "shaft",
+      "signal",
+      "signals",
+      "crankshaft acceleration signal",
+      "spark advance signal",
+      "sensor output signals",
+      "profile ignition pickup signal",
+      "pedal position signal",
+      "absolute manifold pressure signal",
+      "sensor signals",
+      "knock sensor signal",
+      "engine speed signal",
+      "various signals",
+      "cooling sleeve",
+      "ignition spark",
+      "speed",
+      "engine speed",
+      "low engine speed",
+      "compression stroke",
+      "intake stroke",
+      "supercharger",
+      "system",
+      "systems",
+      "actuation system",
+      "cam actuation system 1",
+      "control system",
+      "fuel system",
+      "high pressure fuel system",
+      "ignition system",
+      "transmission system",
+      "VCT systems",
+      "fuel tanks",
+      "engine coolant temperature",
+      "exhaust temperature",
+      "exhaust gas temperature",
+      "threshold",
+      "differing thresholds",
+      "first threshold",
+      "first higher threshold",
+      "lower threshold",
+      "second threshold",
+      "throttle",
+      "time",
+      "timing",
+      "variable cam timing",
+      "signal timing",
+      "spark timing",
+      "variable valve timing",
+      "pressure transducer",
+      "NOx trap",
+      "exhaust turbine",
+      "turbocharger",
+      "other type",
+      "UEGO",
+      "microprocessor unit",
+      "intake port upstream",
+      "vacuum",
+      "value",
+      "calibration values",
+      "lambda value",
+      "exhaust valve",
+      "intake and exhaust valves",
+      "intake/exhaust valves",
+      "intake and/or exhaust valve",
+      "intake valve",
+      "vaporization",
+      "vaporizations",
+      "other variants",
+      "passenger vehicle",
+      "lower volatility",
+      "volumes",
+      "combustion chamber walls",
+      "three way",
+      "pulse width",
+      "window",
+      "single defined window",
+      "earlier window",
+      "first window",
+      "later window",
+      "second window",
+      "crank angle timing windows",
+      "intake air passage 1",
+      "intake air passage 2",
+      "intake air passage 3",
+      "cam actuation system 2",
+      "position sensor 1",
+      "position sensor 2"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Partial_Engine_View"
+}
